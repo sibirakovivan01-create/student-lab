@@ -1,0 +1,7 @@
+$ cd ~/lab1
+$ git remote add origin https://github.com/sibirakovivan01-create/student-lab/new/main
+$ git remote -v
+$ git branch -M main
+$ git add .
+$ git commit -m "Первый коммит"
+$ git push -u origin main
